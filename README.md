@@ -38,6 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
+    https://nitesh-kaushik.github.io/IMDB-api/
 ## Authors
 
 - [@Nitesh-Kaushik](https://github.com/Nitesh-Kaushik)
